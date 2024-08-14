@@ -3,14 +3,18 @@ S
 CATEGORY-ADS-EXTRAan.yandex.ru
 ads"statchecker.yandex.ru
 ads
-‹
-SOCIAL-NETWORK
+1
+
+GOOGLE-ADS#^rr.*googlevideo\.com$
+ads
+ 
+SOCIALNETWORK
 vk.com	vk.rumvk.comuserapi.com	vk-cdn.me
 vk-cdn.netvk-portal.net	vk.cc
 vk.com	vk.designvk.link	vk.mevkcache.comvkgo.app
-vklive.appvkmessenger.comvkmessenger.appvkontakte.ruvkuseraudio.comvkuserlive.netvkuservideo.comvkuservideo.net	ok.rumail.ru
-/
-VIDEO-PLATFORM	rutube.ru
+vklive.appvkmessenger.comvkmessenger.appvkontakte.ruvkuseraudio.comvkuserlive.netvkuservideo.comvkuservideo.net	ok.ruodnoklassniki.rumail.ru
+.
+VIDEOPLATFORM	rutube.ru
 plvideo.ru
 K
 
