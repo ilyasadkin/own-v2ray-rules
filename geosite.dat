@@ -1,0 +1,22 @@
+
+Ì
+CATEGORY-ADS-EXTRAan.yandex.ru
+ads"statchecker.yandex.ru
+ads.!^([a-z0-9-]+\.)*googlevideo\.com$
+adsG:^([a-z0-9-]+\.)*googlevideo\.([a-z]{2}|com?)(\.[a-z]{2})?$
+ads
+?
+SOCIAL-NETWORK
+vk.com	ok.ru	vk.rumail.ru
+/
+VIDEO-PLATFORM	rutube.ru
+plvideo.ru
+K
+
+YANDEX-ADSan.yandex.ru
+ads"statchecker.yandex.ru
+ads
+†
+YOUTUBE-ADS.!^([a-z0-9-]+\.)*googlevideo\.com$
+adsG:^([a-z0-9-]+\.)*googlevideo\.([a-z]{2}|com?)(\.[a-z]{2})?$
+ads
