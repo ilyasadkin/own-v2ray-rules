@@ -1,22 +1,16 @@
 
-ã
+Â
 CATEGORY-ADS-EXTRAan.yandex.ru
 ads"statchecker.yandex.ru
 ads%manifest.googlevideo.com
 ads!youtube-nocookie.com
-ads#^rr.*googlevideo\.com$
-ads/"^rr.sn-[\w\d-]+\.googlevideo\.com$
-ads7*^r[0-9]---\.sn-[\w\d-]+\.googlevideo\.com$
-ads5(^r[0-9]-\.sn-[\w\d-]+\.googlevideo\.com$
+ads#^rr*.googlevideo\.com$
 ads
-œ
+{
 
 GOOGLE-ADS%manifest.googlevideo.com
 ads!youtube-nocookie.com
-ads#^rr.*googlevideo\.com$
-ads/"^rr.sn-[\w\d-]+\.googlevideo\.com$
-ads7*^r[0-9]---\.sn-[\w\d-]+\.googlevideo\.com$
-ads5(^r[0-9]-\.sn-[\w\d-]+\.googlevideo\.com$
+ads#^rr*.googlevideo\.com$
 ads
  
 SOCIALNETWORK
