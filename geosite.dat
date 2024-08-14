@@ -1,11 +1,22 @@
 
-S
+ã
 CATEGORY-ADS-EXTRAan.yandex.ru
 ads"statchecker.yandex.ru
+ads%manifest.googlevideo.com
+ads!youtube-nocookie.com
+ads#^rr.*googlevideo\.com$
+ads/"^rr.sn-[\w\d-]+\.googlevideo\.com$
+ads7*^r[0-9]---\.sn-[\w\d-]+\.googlevideo\.com$
+ads5(^r[0-9]-\.sn-[\w\d-]+\.googlevideo\.com$
 ads
-1
+œ
 
-GOOGLE-ADS#^rr.*googlevideo\.com$
+GOOGLE-ADS%manifest.googlevideo.com
+ads!youtube-nocookie.com
+ads#^rr.*googlevideo\.com$
+ads/"^rr.sn-[\w\d-]+\.googlevideo\.com$
+ads7*^r[0-9]---\.sn-[\w\d-]+\.googlevideo\.com$
+ads5(^r[0-9]-\.sn-[\w\d-]+\.googlevideo\.com$
 ads
  
 SOCIALNETWORK
@@ -13,9 +24,9 @@ GOOGLE-ADS#^rr.*googlevideo\.com$
 vk-cdn.netvk-portal.net	vk.cc
 vk.com	vk.designvk.link	vk.mevkcache.comvkgo.app
 vklive.appvkmessenger.comvkmessenger.appvkontakte.ruvkuseraudio.comvkuserlive.netvkuservideo.comvkuservideo.net	ok.ruodnoklassniki.rumail.ru
-.
+@
 VIDEOPLATFORM	rutube.ru
-plvideo.ru
+plvideo.rukinopoisk.ru
 K
 
 YANDEX-ADSan.yandex.ru
